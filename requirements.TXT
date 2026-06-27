@@ -1,0 +1,4 @@
+# No external dependencies required.
+# Uses Python built-in libraries:
+# - smtplib
+# - email.mime.text
